@@ -1,0 +1,2 @@
+# CmpGrfOgre
+Taller compugrafica
