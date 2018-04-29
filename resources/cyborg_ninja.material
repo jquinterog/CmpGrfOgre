@@ -1,0 +1,126 @@
+material Material.001
+{
+	receive_shadows on
+	technique
+	{
+		pass
+		{
+			ambient 0.458981 0.458981 0.458981 1.000000
+			diffuse 0.734369 0.734369 0.734369 1.000000
+			specular 0.500000 0.500000 0.500000 1.000000 12.500000
+			emissive 0.000000 0.000000 0.000000 1.000000
+		}
+	}
+}
+material Material.002
+{
+	receive_shadows on
+	technique
+	{
+		pass
+		{
+			ambient 0.308605 0.308605 0.308605 1.000000
+			diffuse 0.493767 0.493767 0.493767 1.000000
+			specular 0.500000 0.500000 0.500000 1.000000 12.500000
+			emissive 0.000000 0.000000 0.000000 1.000000
+		}
+	}
+}
+material red_skin_cyborg
+{
+	receive_shadows on
+	technique
+	{
+		pass
+		{
+			ambient 0.093066 0.093066 0.093066 1.000000
+			diffuse 0.148905 0.148905 0.148905 1.000000
+			specular 0.500000 0.500000 0.500000 1.000000 12.500000
+			emissive 0.000000 0.000000 0.000000 1.000000
+		}
+	}
+}
+material Material
+{
+	receive_shadows on
+	technique
+	{
+		pass
+		{
+			ambient 0.052966 0.052966 0.052966 1.000000
+			diffuse 0.084745 0.084745 0.084745 1.000000
+			specular 0.500000 0.500000 0.500000 1.000000 12.500000
+			emissive 0.000000 0.000000 0.000000 1.000000
+		}
+	}
+}
+material red_skin_cyborg.007
+{
+	receive_shadows on
+	technique
+	{
+		pass
+		{
+			ambient 0.148204 0.148204 0.148204 1.000000
+			diffuse 0.237126 0.237126 0.237126 1.000000
+			specular 0.500000 0.500000 0.500000 1.000000 12.500000
+			emissive 0.000000 0.000000 0.000000 1.000000
+		}
+	}
+}
+material red_skin_cyborg.006
+{
+	receive_shadows on
+	technique
+	{
+		pass
+		{
+			ambient 0.443943 0.441866 0.441866 1.000000
+			diffuse 0.710309 0.706986 0.706986 1.000000
+			specular 0.500000 0.500000 0.500000 1.000000 12.500000
+			emissive 0.000000 0.000000 0.000000 1.000000
+		}
+	}
+}
+material red_skin_cyborg.005
+{
+	receive_shadows on
+	technique
+	{
+		pass
+		{
+			ambient 0.000000 0.000000 0.000000 1.000000
+			diffuse 0.000000 0.000000 0.000000 1.000000
+			specular 0.500000 0.500000 0.500000 1.000000 12.500000
+			emissive 0.000000 0.000000 0.000000 1.000000
+		}
+	}
+}
+material red_skin_cyborg.002
+{
+	receive_shadows on
+	technique
+	{
+		pass
+		{
+			ambient 0.343692 0.343692 0.343692 1.000000
+			diffuse 0.549908 0.549908 0.549908 1.000000
+			specular 0.500000 0.500000 0.500000 1.000000 12.500000
+			emissive 0.000000 0.000000 0.000000 1.000000
+		}
+	}
+}
+material red_skin_cyborg.001
+{
+	receive_shadows on
+	technique
+	{
+		pass
+		{
+			ambient 0.500000 0.091109 0.016458 1.000000
+			diffuse 0.800000 0.145774 0.026332 1.000000
+			specular 0.500000 0.500000 0.500000 1.000000 12.500000
+			emissive 0.000000 0.000000 0.000000 1.000000
+		}
+	}
+}
